@@ -1,0 +1,180 @@
+Author 1
+Number of sentences 912
+Number of word per sentence 1000.000
+Number of letter per word 3.979
+Author 2
+Number of sentences 382
+Number of word per sentence 1000.000
+Number of letter per word 3.974
+Author 3
+Number of sentences 213
+Number of word per sentence 1000.000
+Number of letter per word 3.914
+Author 4
+Number of sentences 1483
+Number of word per sentence 1000.000
+Number of letter per word 3.879
+Author 6
+Number of sentences 407
+Number of word per sentence 1000.000
+Number of letter per word 3.958
+Author 8
+Number of sentences 6914
+Number of word per sentence 1000.000
+Number of letter per word 3.902
+Author 9
+Number of sentences 1108
+Number of word per sentence 1000.000
+Number of letter per word 3.787
+Author 10
+Number of sentences 755
+Number of word per sentence 1000.000
+Number of letter per word 3.934
+Author 11
+Number of sentences 383
+Number of word per sentence 1000.000
+Number of letter per word 4.129
+Author 12
+Number of sentences 627
+Number of word per sentence 1000.000
+Number of letter per word 3.922
+Author 13
+Number of sentences 485
+Number of word per sentence 1000.000
+Number of letter per word 3.877
+Author 14
+Number of sentences 2696
+Number of word per sentence 1000.000
+Number of letter per word 3.884
+Author 15
+Number of sentences 1460
+Number of word per sentence 1000.000
+Number of letter per word 3.918
+Author 16
+Number of sentences 183
+Number of word per sentence 1000.000
+Number of letter per word 4.050
+Author 17
+Number of sentences 660
+Number of word per sentence 1000.000
+Number of letter per word 3.855
+Author 18
+Number of sentences 1078
+Number of word per sentence 1000.000
+Number of letter per word 3.985
+Author 19
+Number of sentences 1543
+Number of word per sentence 1000.000
+Number of letter per word 3.988
+Author 20
+Number of sentences 587
+Number of word per sentence 1000.000
+Number of letter per word 4.108
+Author 21
+Number of sentences 2307
+Number of word per sentence 1000.000
+Number of letter per word 3.898
+Author 22
+Number of sentences 495
+Number of word per sentence 1000.000
+Number of letter per word 3.953
+Author 23
+Number of sentences 455
+Number of word per sentence 1000.000
+Number of letter per word 3.963
+Author 24
+Number of sentences 380
+Number of word per sentence 1000.000
+Number of letter per word 4.120
+Author 25
+Number of sentences 1159
+Number of word per sentence 1000.000
+Number of letter per word 3.981
+Author 26
+Number of sentences 4441
+Number of word per sentence 1000.000
+Number of letter per word 4.034
+Author 27
+Number of sentences 306
+Number of word per sentence 1000.000
+Number of letter per word 3.867
+Author 28
+Number of sentences 823
+Number of word per sentence 1000.000
+Number of letter per word 4.165
+Author 29
+Number of sentences 645
+Number of word per sentence 1000.000
+Number of letter per word 4.081
+Author 30
+Number of sentences 972
+Number of word per sentence 1000.000
+Number of letter per word 3.791
+Author 32
+Number of sentences 703
+Number of word per sentence 1000.000
+Number of letter per word 4.078
+Author 33
+Number of sentences 1742
+Number of word per sentence 1000.000
+Number of letter per word 3.926
+Author 34
+Number of sentences 453
+Number of word per sentence 1000.000
+Number of letter per word 3.863
+Author 35
+Number of sentences 659
+Number of word per sentence 1000.000
+Number of letter per word 4.130
+Author 36
+Number of sentences 693
+Number of word per sentence 1000.000
+Number of letter per word 3.952
+Author 37
+Number of sentences 2387
+Number of word per sentence 1000.000
+Number of letter per word 4.130
+Author 38
+Number of sentences 1163
+Number of word per sentence 1000.000
+Number of letter per word 3.866
+Author 39
+Number of sentences 2266
+Number of word per sentence 1000.000
+Number of letter per word 3.731
+Author 40
+Number of sentences 430
+Number of word per sentence 1000.000
+Number of letter per word 3.824
+Author 41
+Number of sentences 911
+Number of word per sentence 1000.000
+Number of letter per word 4.209
+Author 42
+Number of sentences 1022
+Number of word per sentence 1000.000
+Number of letter per word 3.761
+Author 43
+Number of sentences 1266
+Number of word per sentence 1000.000
+Number of letter per word 3.942
+Author 44
+Number of sentences 468
+Number of word per sentence 1000.000
+Number of letter per word 3.862
+Author 45
+Number of sentences 2312
+Number of word per sentence 1000.000
+Number of letter per word 3.961
+Author 46
+Number of sentences 605
+Number of word per sentence 1000.000
+Number of letter per word 3.747
+Author 48
+Number of sentences 1825
+Number of word per sentence 1000.000
+Number of letter per word 3.994
+Author 50
+Number of sentences 914
+Number of word per sentence 1000.000
+Number of letter per word 3.907
