@@ -1,21 +1,30 @@
 import pandas as pd
+import numpy as np
+from collections import Counter
 
-df = pd.read_csv("dataset/Gungor_2018_VictorianAuthorAttribution_data-train.csv", sep=",", encoding='latin-1')
+def build_tokenizer_file(input_file, output_file = "tokenizer.txt"):
+    df = pd.read_csv(input_file, sep=",", encoding='latin-1')
+    all_text = " ".join(df["text"].astype(str)) # create a single text from all lines
+    words = all_text.split()
+    counter = Counter(words) # count frequency for each word
+    sorted_words = counter.most_common() # sort by frequency
+    with open(output_file, "w", encoding="latin-1") as f:
+        for i, (word, _) in enumerate(sorted_words):
+            f.write(f"{word}>{i}\n")
 
-words = {}
-for line in df["text"]:
-    line = line.strip().split(" ")
-    for word in line:
-        if word not in words:
-            words[word] = 0
-        words[word] += 1
-    
-l = [(k, words[k]) for k in words]
-l.sort(key=lambda x : x[1], reverse=True)
+def build_tokenizer_dic(input_file = "tokenizer.txt"):
+    ret = {}
+    with open(input_file, "r") as f:
+        for line in f.readlines():
+            line = line.strip().split(">")
+            ret[line[0]] = int(line[1])
+    return ret
 
-with open("tokenizer.txt", "w+") as f:
-    for i in range(len(l)):
-        f.write(f"{l[i][0]}>{i}\n")
+def tokenize_sentence(sentence, tokenizer):
+    return [tokenizer[word] for word in sentence.strip().split(" ")]
 
-    
+def tokenize_list(sentences, tokenizer):
+    return np.array([tokenize_sentence(s, tokenizer) for s in sentences])
 
+if __name__ == "main":
+    build_tokenizer_file("dataset/Gungor_2018_VictorianAuthorAttribution_data-train.csv")
