@@ -17,7 +17,7 @@ The main challenge addressed is transforming unstructured text data into meaning
 - **Authorship Attribution:** Predict which author wrote a text excerpt from 50 Victorian-era novelists
 - **Text Vectorization:** Compare different text representation methods (Bag-of-Words, TF-IDF)
 - **Classification:** Evaluate multiple ML algorithms (Naive Bayes, SVM) for this multi-class classification problem
-- **Author Analysis:** Extract and visualize statistical features of different authors' writing styles
+- **Author Analysis:** Extract and visualize statistical features of different authors writing styles
 
 ---
 
@@ -44,15 +44,6 @@ ML-Authors/
 ├── stats.txt                          # Computed author statistics
 ├── Data Description.pdf               # Additional dataset documentation
 └── README.md                          # This file
-```
-
----
-
-## Installation
-
-Install from requirements:
-```bash
-pip install -r requirements.txt
 ```
 
 ---
@@ -125,7 +116,7 @@ We implemented and compared two approaches:
 ### Data Preprocessing
 - Dataset is pre-normalized (no additional preprocessing needed)
 - Text already cleaned and standardized
-- Consistent 1,000-word excerpts
+- Consistent 1000-word excerpts
 
 ### Feature Engineering
 - Vectorizers trained on entire corpus for better vocabulary coverage
