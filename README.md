@@ -111,7 +111,7 @@ We implemented and compared two approaches:
 
 ---
 
-## 🔧 Technical Details
+## Technical Details
 
 ### Data Preprocessing
 - Dataset is pre-normalized (no additional preprocessing needed)
